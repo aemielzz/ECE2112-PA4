@@ -1,7 +1,7 @@
 ## Experiment 4
 ## DATA WRANGLING AND DATA VISUALIZATION
 ##### Amiel Elestin M. Cruz
-##### 2ECE-D
+##### 2ECE-B
 ## ECE BOARD EXAM PROBLEM: 
 ![image](https://github.com/user-attachments/assets/f854a14a-2c9c-4aef-95d7-603ac9c38a77)
 
